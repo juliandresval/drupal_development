@@ -1,4 +1,5 @@
 ### Note
-This is a personal proyect for learning and training
+This is a personal project for learning and training myself
+
 # drupal_development
 ...
