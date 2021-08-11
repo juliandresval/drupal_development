@@ -1,0 +1,11 @@
+/.git/
+/.idea/
+/bin/
+/web/sites/default/files/
+/web/sites/default/settings.php
+/*.txt
+
+vendor/
+logs/
+*.log
+*.csv
